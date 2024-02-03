@@ -140,7 +140,7 @@ $  source bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/shobhit707/e-voter-app.git
+$  git clone https://github.com/ved7878/E-Voter_App.git
 ```
 
 Then, Enter the project
